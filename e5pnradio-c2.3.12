@@ -1,8 +1,8 @@
 # Malleable C2 Profile
 # Version: CobaltStrike 3.12
-# File: jquery-c2.3.12.profile
+# File: e5pnradio-c2.3.12.profile
 # Description: 
-#    c2 profile attempting to mimic a jquery.js request
+#    c2 profile attempting to mimic a espnradio traffic request
 #    uses signed certificates
 #    or self-signed certificates
 # Authors: @joevest, @andrewchiles, @001SPARTaN 
